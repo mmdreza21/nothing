@@ -4,12 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Arrays
+namespace DataStructures
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Arrays arr = new Arrays(2);
+
+            arr.Insert(2);
+            arr.Insert(3);
+            arr.Insert(5);
+            arr.Insert(6);
+            arr.Insert(8);
+            arr.Remove(4);
+            Console.WriteLine(arr.IndexOf(3));
+            arr.Print();
         }
     }
 }
