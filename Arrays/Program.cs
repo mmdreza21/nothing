@@ -10,14 +10,14 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            Arrays arr = new Arrays(2);
+            Arrays<int> arr = new Arrays<int>(2);
 
             arr.Insert(2);
             arr.Insert(3);
             arr.Insert(5);
             arr.Insert(6);
             arr.Insert(8);
-            arr.Remove(4);
+            arr.Remove(9);
             Console.WriteLine(arr.IndexOf(3));
             arr.Print();
         }
