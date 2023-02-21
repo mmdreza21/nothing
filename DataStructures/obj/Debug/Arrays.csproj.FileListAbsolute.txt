@@ -1,8 +1,0 @@
-E:\practice\c#\exercise\five\Arrays\Arrays\bin\Debug\Arrays.exe.config
-E:\practice\c#\exercise\five\Arrays\Arrays\bin\Debug\Arrays.exe
-E:\practice\c#\exercise\five\Arrays\Arrays\bin\Debug\Arrays.pdb
-E:\practice\c#\exercise\five\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
-E:\practice\c#\exercise\five\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
-E:\practice\c#\exercise\five\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
-E:\practice\c#\exercise\five\Arrays\Arrays\obj\Debug\Arrays.exe
-E:\practice\c#\exercise\five\Arrays\Arrays\obj\Debug\Arrays.pdb
