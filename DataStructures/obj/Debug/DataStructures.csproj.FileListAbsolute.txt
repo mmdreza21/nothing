@@ -1,0 +1,5 @@
+E:\practice\c#\exercise\five\Arrays\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+E:\practice\c#\exercise\five\Arrays\DataStructures\obj\Debug\DataStructures.csproj.SuggestedBindingRedirects.cache
+E:\practice\c#\exercise\five\Arrays\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+E:\practice\c#\exercise\five\Arrays\DataStructures\obj\Debug\Arrays.exe
+E:\practice\c#\exercise\five\Arrays\DataStructures\obj\Debug\Arrays.pdb
